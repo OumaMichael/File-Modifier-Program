@@ -2,7 +2,7 @@
 
 A Python program that reads a file, modifies its content, and saves a new version with comprehensive error handling.
 
-## Features ✨
+## Features 
 
 - Reads any text file
 - Adds line numbers and converts text to uppercase (customizable)
@@ -10,7 +10,7 @@ A Python program that reads a file, modifies its content, and saves a new versio
 - Handles common file errors gracefully
 - Interactive command-line interface
 
-## How It Works ⚙️
+## How It Works 
 
 1. **Input**: User provides:
    - Input filename (must exist)
@@ -27,7 +27,7 @@ A Python program that reads a file, modifies its content, and saves a new versio
    - Encoding problems (`UnicodeDecodeError`)
    - Other unexpected errors
 
-## Usage 🖥️
+## Usage 
 
 1. Run the program:
    ```bash
